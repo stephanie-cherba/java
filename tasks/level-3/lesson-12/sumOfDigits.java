@@ -1,3 +1,5 @@
+//Write the code for sumDigitsInNumber(int number). The method takes a three-digit whole number. You need to calculate the sum of the digits of this number, and then return the result.
+
 public class sumOfDigits{
     public static void main(String[] args){
         System.out.println(sumDigitsInNumber(546));

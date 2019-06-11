@@ -1,3 +1,6 @@
+// Use the keyboard to enter three names, then display:
+// name1 + name2 + name3 = Pure love. Ooo la-la!
+
 import java.io.*;
 public class deepPureLove{
     public static void main(String[] args) throws Exception{

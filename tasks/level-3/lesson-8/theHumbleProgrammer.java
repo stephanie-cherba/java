@@ -1,3 +1,6 @@
+//Use the keyboard to enter a name and display the following:
+// <name> makes $120,000 a year. Ha-ha-ha!
+
 import java.io.*;
 
 public class theHumbleProgrammer{

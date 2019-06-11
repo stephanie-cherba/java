@@ -1,3 +1,7 @@
+// Use the keyboard to separately enter the name, number1, and number2. 
+// Display the following phrase:
+// <name> will receive <number1> in <number2> years.
+
 import java.io.*;
 
 public class predictions{
