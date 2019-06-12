@@ -3,8 +3,8 @@
 public class catNums{
     private static int catCount = 0;
     
-    public static void setCatCount(int cats){
-        catCount = cats;
+    public static void setCatCount(int catCount){
+        catNums.catCount = catCount;
     }
 
     public static void main(String[] args){
